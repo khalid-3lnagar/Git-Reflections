@@ -1,0 +1,13 @@
+What happens when you initialize a repository? Why do you need to do it?
+- when i initialize a repository the ".git" file created.. to make git control  the versions of our files
+
+How is the staging area different from the working directory and the repository?
+
+-the working directory is a ordinary folder it has the files of our project, and also can have untracked files that will not tracked in the git repo
+
+-the repository is everything that Git have and work in it  the
+
+the staging area is the step between the working directory and the repo
+
+What value do you think it offers?
+it has the files that git track and will commit in the next step and Divides files to tracked and untracked.

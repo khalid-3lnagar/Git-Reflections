@@ -1,13 +1,24 @@
-What happens when you initialize a repository? Why do you need to do it?
+0- What happens when you initialize a repository? Why do you need to do it?
 - when i initialize a repository the ".git" file created.. to make git control  the versions of our files
 
-How is the staging area different from the working directory and the repository?
+1- How is the staging area different from the working directory and the repository?
 
 -the working directory is a ordinary folder it has the files of our project, and also can have untracked files that will not tracked in the git repo
 
--the repository is everything that Git have and work in it  the
+-the repository is everything that Git have and work in it
 
-the staging area is the step between the working directory and the repo
+-the staging area is the step between the working directory and the repo
 
-What value do you think it offers?
+2- What value do you think it offers?
 it has the files that git track and will commit in the next step and Divides files to tracked and untracked.
+
+3- How can you use the staging area to make sure you have one commit per logical change?
+by putting  the files that has logical change in it  and use "diff" to make sure
+
+4- What are some situations when branches would be helpful in keeping your history organized?
+if i want to make entire different versions of my project<
+when i need to refactor the entire code base
+when i do some changes and i'm not sure if those changes will effect the project in another area
+
+5- How would branches help?
+its help for making the history organized and free some data if i need to make a copy of the project files branches helps to do that with no data inflation side effect

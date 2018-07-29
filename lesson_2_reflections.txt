@@ -22,3 +22,6 @@ when i do some changes and i'm not sure if those changes will effect the project
 
 5- How would branches help?
 its help for making the history organized and free some data if i need to make a copy of the project files branches helps to do that with no data inflation side effect
+
+6- How do the diagrams help you visualize the branch structure?
+it's make the complexity more easy to read

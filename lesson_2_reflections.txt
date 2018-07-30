@@ -31,3 +31,8 @@ both of the branches refer to the same commit and git make this new commit and m
 
 8- Why do we represent it in the diagram the way we do?
 to make less complexity and to make it easy to understand the code history
+
+9- What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+the automatic merging is more easy and save a lot of time in merging 2 versions or branches but it can't decide what is the right code if
+there was a conflict if 2 branches changes the same  code in the same time then we need a developer to make sure everything is right by chosing the right code
+and commit it to complete merging

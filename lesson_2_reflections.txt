@@ -27,5 +27,7 @@ its help for making the history organized and free some data if i need to make a
 it's make the complexity more easy to read
 
 7- What is the result of merging two branches together?
+both of the branches refer to the same commit and git make this new commit and merge the lines in the final commit
 
 8- Why do we represent it in the diagram the way we do?
+to make less complexity and to make it easy to understand the code history

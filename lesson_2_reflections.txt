@@ -25,3 +25,7 @@ its help for making the history organized and free some data if i need to make a
 
 6- How do the diagrams help you visualize the branch structure?
 it's make the complexity more easy to read
+
+7- What is the result of merging two branches together?
+
+8- Why do we represent it in the diagram the way we do?

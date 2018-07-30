@@ -30,8 +30,9 @@ because git is meant to be a version control for a  hole project   put google do
 5- How might using version control make you more confident to make changes that
 could break something?
 
-    Fill in your answer here
+because we can go back to the previous version any time
 
 6- Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+    to make history for my code in the future
+    and to see my progress   

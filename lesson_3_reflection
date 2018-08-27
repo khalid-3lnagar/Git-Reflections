@@ -16,7 +16,7 @@ What is the benefit of having a copy of the last known state of the remote store
 using 'diff' to compare the differences between the local master and the remote master before
 merging them
 4- How would you collaborate without using Git or GitHub?
-by copy the entire project to my pc and edit it and send this copy after
-collabrating to the oner of the project and and it w'll be a Difficult pross to do
-5-  What would be easier, and what would be harder? 
-of curse using Git and GitHub to collaborate would be easier than eny different method 
+by copy the entire project to my PC and edit it and send this copy after
+collaborating to the owner of the project and and it will be a Difficult process to do
+5-  What would be easier, and what would be harder?
+of curse using Git and GitHub to collaborate would be easier than any different method

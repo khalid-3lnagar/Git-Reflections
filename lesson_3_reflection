@@ -14,4 +14,9 @@ Branch: is a part of the repository
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 using 'diff' to compare the differences between the local master and the remote master before
-merging them 
+merging them
+4- How would you collaborate without using Git or GitHub?
+by copy the entire project to my pc and edit it and send this copy after
+collabrating to the oner of the project and and it w'll be a Difficult pross to do
+5-  What would be easier, and what would be harder? 
+of curse using Git and GitHub to collaborate would be easier than eny different method 

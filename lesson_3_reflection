@@ -11,3 +11,7 @@ Forks: is copy of the Git project inside GitHub
 it's like the clone but it work inside GitHub
 Clone: is making copy from local or remote repository
 Branch: is a part of the repository
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+using 'diff' to compare the differences between the local master and the remote master before
+merging them 

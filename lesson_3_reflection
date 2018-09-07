@@ -12,11 +12,21 @@ it's like the clone but it work inside GitHub
 Clone: is making copy from local or remote repository
 Branch: is a part of the repository
 
-What is the benefit of having a copy of the last known state of the remote stored locally?
+4- What is the benefit of having a copy of the last known state of the remote stored locally?
 using 'diff' to compare the differences between the local master and the remote master before
 merging them
-4- How would you collaborate without using Git or GitHub?
+
+5- How would you collaborate without using Git or GitHub?
 by copy the entire project to my PC and edit it and send this copy after
 collaborating to the owner of the project and and it will be a Difficult process to do
-5-  What would be easier, and what would be harder?
+
+6-  What would be easier, and what would be harder?
 of curse using Git and GitHub to collaborate would be easier than any different method
+
+7-  When would you want to make changes in a separate branch rather than directly in master?
+if i need to add new feature and won't this feature to Affect the master branch
+or if one of my team  solving problem  and my be when he work the master branch get effected
+
+8- What benefits does each approach have?
+Reduce the risk of modification when adding a new feature ..
+or when refactoring part of the project the hole project Does not affect the rest of the project
